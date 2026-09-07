@@ -17,7 +17,9 @@ Sempre aprendendo, afinal: "Conhecimento é poder"
 <img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> Atualmente, estou trabalhando em ...
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Cartwheeling%20Light%20Skin%20Tone.png" alt="Man Cartwheeling Light Skin Tone" width="25" height="25" />  Um software avaliativo para cheerleading.  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Green%20Book.png" alt="Green Book" width="25" height="25" />
+width="25" height="25" />  Um aplicativo de ensino imbutido com uma IA que ajuda estudantes a passarem no vestibular (TCC).
+<br/> 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> Hoje em dia estou aprendendo ...
 <img src="https://skillicons.dev/icons?i=pytorch"  width="40px"/> Pytorch <br/>
 <img src="https://skillicons.dev/icons?i=c"  width="40px"/> C
