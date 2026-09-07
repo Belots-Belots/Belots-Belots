@@ -28,7 +28,7 @@ width="35" height="35" /> Um aplicativo de ensino imbutido com uma IA que ajuda 
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> IA de maneira geral e machine learning
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/question.png" width="50px" />  Me pergunte sobre ...
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" /> O que quiser. Posso tanto ajudar quanto aprender junto <br/> <br/> <br/>
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" width="60px" /> O que quiser. Posso tanto ajudar quanto aprender junto <br/> <br/> <br/>
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> CONTATOS: ...
 <p align="center">
   <a href="https://www.instagram.com/belotti_machado">
