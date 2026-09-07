@@ -34,7 +34,7 @@ Sempre aprendendo, afinal: "Conhecimento é poder"
   <a href="https://www.instagram.com/belotti_machado">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/instagram.webp" height="35px" style="margin: 5px;" />
   </a>
-  <a href="">
+  <a href="https://www.linkedin.com/in/belots/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 5px;" />
   </a>
   <a href="mailto:gustavobmluiz55@gmail.com">
