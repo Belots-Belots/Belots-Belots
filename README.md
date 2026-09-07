@@ -54,9 +54,9 @@ Sempre aprendendo, afinal: "Conhecimento é poder"
 
 
 <p align="right">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Belots-Belots&theme=tokyonight&show_icons=true" />
+<img align="left" src="https://github-stats-extended.vercel.app/api?username=Belots-Belots&theme=tokyonight&show_icons=true" />
 
-<img  float="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Belots-Belots&theme=tokyonight&show_icons=true" />
+<img  float="right" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Belots-Belots&theme=tokyonight&show_icons=true" />
 
 </p>
 
