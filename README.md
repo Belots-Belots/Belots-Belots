@@ -3,7 +3,7 @@
 <p align="center" >
   <samp>
     Meu nome é <em>Gustavo</em>. Sou estudante de Ánalise e Desenvolvimento de Sistemas na Fatec - RP... 
-  <br/> Gosto de misturar programação e esportes...
+  <br/> Atualmente me encontro parte de Analogia, uma startup com colegas da área que visa trazer a IA para todos
       <br/>
 No tempo livre eu pratico esportes ou procuro algo novo para aprender
           <br/>
